@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="206.5px" height="200px" viewBox="0 0 206.5 200" style="enable-background:new 0 0 206.5 200;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#89CBD8;stroke-miterlimit:10;}
+	.st1{fill:#89CBD8;}
+	.st2{fill:none;stroke:#C2C2C2;stroke-miterlimit:10;}
+	.st3{fill:#C2C2C2;}
+	.st4{fill:none;stroke:#C2C2C2;stroke-width:2;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#89CBD8;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g>
+	<circle class="st0" cx="103.2" cy="100" r="35.2"/>
+	<polygon class="st5" points="103.6,82.9 88.6,91.9 88.6,109.1 103.6,118.1 119.1,108.9 119.1,92.1 	"/>
+	<polyline class="st5" points="88.6,91.9 103.8,100.5 119.1,92.1 	"/>
+	<line class="st5" x1="103.8" y1="100.5" x2="103.8" y2="118.1"/>
+</g>
+</svg>
